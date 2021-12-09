@@ -3,7 +3,7 @@
 185.199.110.153
 185.199.111.153
 
-$ dig EXAMPLE.COM +noall +answer -t A
+$ dig siueh.es +noall +answer -t A
 > siueh.es     3600    IN A     185.199.108.153
 > siueh.es     3600    IN A     185.199.109.153
 > siueh.es     3600    IN A     185.199.110.153
